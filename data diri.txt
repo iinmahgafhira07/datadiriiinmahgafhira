@@ -2,3 +2,8 @@ nama : iin mahgafhira
 nim : 1829140022
 kelas : tekom b
 kota asal : mamuju
+
+jenis kelamin : perempuan 
+nama orang tua :
+ayah : junadis
+ibu : istiqomah 
